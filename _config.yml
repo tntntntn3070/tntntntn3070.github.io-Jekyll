@@ -1,14 +1,13 @@
-# Site
-title:              Sujung
-bio:                'Alea iacta est.'
-description:        "Sujung's Dev Blog"
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/star_bg.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://tntntntn3070.github.io
+title:Sujung
+bio:'Sujung's Dev Blog'
+description:"Sujung's Dev Blog"
+reading_time:true
+words_per_minute:200
+logo:'assets/img/logo.png'
+background:'assets/img/star_bg.jpg'
+tiled_bg:false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:en_US
+url:https://tntntntn3070.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +36,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:		
+email:		tntntntn3070@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         tntntntn3070
